@@ -1,0 +1,16 @@
+//存放常量的仓库
+const FOOT_FLAG_CHANGE = 'FOOT_FLAG_CHANGE'
+const LOADING_FLAG = 'LOADING_FLAG'
+const USER_CHANGE = 'USER_CHANGE'
+const REG = 'REG'
+const SYNC_UPDATE = 'SYNC_UPDATE'
+const LOGIN = 'LOGIN'
+
+export {
+    FOOT_FLAG_CHANGE,
+    LOADING_FLAG,
+    USER_CHANGE,
+    REG,
+    SYNC_UPDATE,
+    LOGIN
+}
